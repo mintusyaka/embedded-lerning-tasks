@@ -1,7 +1,6 @@
 # embedded-learning-tasks
 
 Structured self-study repository for becoming a Junior Embedded Software Engineer.
-C++17, bare-metal STM32, FreeRTOS — from fundamentals to real hardware.
 
 ## Progress
 
@@ -17,7 +16,7 @@ C++17, bare-metal STM32, FreeRTOS — from fundamentals to real hardware.
 
 | Module | Topic | Status |
 |---|---|---|
-| 1.1 | `volatile` · `const` · `constexpr` · bitwise · bit fields · endianness | ✅ 85/100 |
+| 1.1 | `volatile` · `const` · `constexpr` · bitwise · bit fields · endianness | ✅ |
 | 1.2 | Memory layout · Pointers · Function pointers · Placement new | 🔄 |
 | 1.3 | Classes · RAII · Templates · `std::array` | ⏳ |
 | 1.4 | CMake · Git · Google Test · ASan | ⏳ |
@@ -31,7 +30,6 @@ C++17, bare-metal STM32, FreeRTOS — from fundamentals to real hardware.
 # embedded-learning-tasks
 
 Репозиторій структурованого самонавчання для підготовки до позиції Junior Embedded Software Engineer.
-C++17, bare-metal STM32, FreeRTOS — від основ мови до реального заліза.
 
 ## Прогрес
 
@@ -47,7 +45,7 @@ C++17, bare-metal STM32, FreeRTOS — від основ мови до реаль
 
 | Модуль | Тема | Статус |
 |---|---|---|
-| 1.1 | `volatile` · `const` · `constexpr` · bitwise · bit fields · endianness | ✅ 85/100 |
+| 1.1 | `volatile` · `const` · `constexpr` · bitwise · bit fields · endianness | ✅ |
 | 1.2 | Memory layout · Вказівники · Function pointers · Placement new | 🔄 |
 | 1.3 | Classes · RAII · Templates · `std::array` | ⏳ |
 | 1.4 | CMake · Git · Google Test · ASan | ⏳ |
