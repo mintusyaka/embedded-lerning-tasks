@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "name": "Embedded",
+      "compilerPath": "G:/projects/embedded-development/arm-gnu-toolchain/bin/arm-none-eabi-gcc.exe",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "G:\\projects\\embedded-development\\arm-gnu-toolchain\\arm-none-eabi\\include",
+        "G:\\projects\\embedded-development\\arm-gnu-toolchain\\arm-none-eabi\\lib\\gcc\\arm-none-eabi\\12.2.1\\include"
+      ],
+      "intelliSenseMode": "gcc-arm",
+      "cStandard": "c17",
+      "cppStandard": "c++17"
+    }
+  ],
+  "version": 4
+}
