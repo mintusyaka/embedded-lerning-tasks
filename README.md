@@ -1,4 +1,3 @@
-````markdown
 # embedded-learning-tasks
 
 Structured self-study repository for becoming a Junior Embedded Software Engineer.
@@ -56,4 +55,3 @@ C++17, bare-metal STM32, FreeRTOS — від основ мови до реаль
 ## Стек
 
 `C++17` `CMake` `Google Test` `GCC MinGW64` `arm-none-eabi-gcc`
-````
