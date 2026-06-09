@@ -16,10 +16,22 @@ Structured self-study repository for becoming a Junior Embedded Software Enginee
 
 | Module | Topic | Status |
 |---|---|---|
-| 1.1 | `volatile` · `const` · `constexpr` · bitwise · bit fields · endianness | ✅ |
-| 1.2 | Memory layout · Pointers · Function pointers · Placement new | 🔄 |
-| 1.3 | Classes · RAII · Templates · `std::array` | ⏳ |
-| 1.4 | CMake · Git · Google Test · ASan | ⏳ |
+| 1.1 | `volatile` · `const` · `constexpr` · bitwise · bit fields · endianness | ✅ Done |
+| 1.2 | Memory layout · Pointers · Function pointers · Placement new | ✅ Done |
+| 1.3 | Classes · RAII · Templates · `std::array` | ⏳ Pending |
+| 1.4 | CMake · Git · Google Test · ASan | ⏳ Pending |
+
+## Repository Structure
+
+```
+embedded-learning-tasks/
+├── module_1_1/          # tasks — volatile, const, constexpr, bitwise, endianness
+├── module_1_1_test/     # exam submission
+├── module_1_2/          # tasks — memory layout, pointers, function pointers, placement new
+├── module_1_2_exam/     # exam submission
+├── .gitignore
+└── README.md
+```
 
 ## Stack
 
@@ -45,10 +57,22 @@ Structured self-study repository for becoming a Junior Embedded Software Enginee
 
 | Модуль | Тема | Статус |
 |---|---|---|
-| 1.1 | `volatile` · `const` · `constexpr` · bitwise · bit fields · endianness | ✅ |
-| 1.2 | Memory layout · Вказівники · Function pointers · Placement new | 🔄 |
-| 1.3 | Classes · RAII · Templates · `std::array` | ⏳ |
-| 1.4 | CMake · Git · Google Test · ASan | ⏳ |
+| 1.1 | `volatile` · `const` · `constexpr` · bitwise · bit fields · endianness | ✅ Виконано |
+| 1.2 | Memory layout · Вказівники · Function pointers · Placement new | ✅ Виконано |
+| 1.3 | Classes · RAII · Templates · `std::array` | ⏳ Не розпочато |
+| 1.4 | CMake · Git · Google Test · ASan | ⏳ Не розпочато |
+
+## Структура репозиторію
+
+```
+embedded-learning-tasks/
+├── module_1_1/          # завдання — volatile, const, constexpr, bitwise, endianness
+├── module_1_1_test/     # екзаменаційне завдання
+├── module_1_2/          # завдання — memory layout, вказівники, function pointers, placement new
+├── module_1_2_exam/     # екзаменаційне завдання
+├── .gitignore
+└── README.md
+```
 
 ## Стек
 
